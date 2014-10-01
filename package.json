@@ -1,0 +1,9 @@
+{
+  "name": "link-header-nav",
+  "title": "Link Header Navigator",
+  "id": "jid1-mZdZw39cwB75AQ",
+  "description": "Provide UI for Link Header information (ala RFC 5988)",
+  "author": "",
+  "license": "MIT",
+  "version": "0.1.0"
+}
